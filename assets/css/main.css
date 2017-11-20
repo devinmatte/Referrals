@@ -2753,6 +2753,10 @@
                 background-color: #1c93f6;
             }
 
+            .tiles article.quip > .image:before {
+                background-color: #2ff69f;
+            }
+
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
 				-webkit-transform: scale(1.1);
