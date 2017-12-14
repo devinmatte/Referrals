@@ -8,9 +8,14 @@
   "lang": "en-US",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "images/logo.svg",
-      "type": "img/svg"
-    }
+        {
+            "sizes": "128x128",
+            "src": "images/icon.png",
+            "type": "img/png"
+        },
+        {
+            "sizes": "16x16",
+            "src": "favicon.ico"
+        }
   ]
 }
