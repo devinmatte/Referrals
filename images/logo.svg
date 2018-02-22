@@ -1,14 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="149.167px" height="172.243px" viewBox="0 0 149.167 172.243" enable-background="new 0 0 149.167 172.243"
-	 xml:space="preserve">
-<polygon fill="#585858" points="149.167,129.183 74.583,172.243 0,129.183 0,43.061 74.583,0 149.167,43.061 "/>
-<path fill="#FFFFFF" d="M41.88,84.75l25.09,26.783L54.889,84.75H41.88z M74.583,115.841L88.64,84.75H60.527L74.583,115.841z
-	 M55.009,79.594l8.217-15.466H52.673l-11.6,15.466H55.009z M82.196,111.533l25.091-26.783h-13.01L82.196,111.533z M60.849,79.594
-	h27.469l-8.217-15.466H69.065L60.849,79.594z M94.157,79.594h13.936L96.494,64.128H85.942L94.157,79.594z M99.835,60.02
-	l15.467,20.621c0.376,0.483,0.55,1.04,0.523,1.671c-0.027,0.632-0.257,1.174-0.686,1.632l-38.664,41.243
-	c-0.483,0.536-1.113,0.804-1.893,0.804c-0.778,0-1.408-0.268-1.892-0.804L34.026,83.944c-0.429-0.457-0.658-1-0.685-1.632
-	c-0.027-0.631,0.147-1.188,0.523-1.671L49.331,60.02c0.484-0.699,1.168-1.047,2.054-1.047h46.398
-	C98.667,58.973,99.353,59.322,99.835,60.02z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg869"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata875">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs873" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="960"
+     id="namedview871"
+     showgrid="false"
+     inkscape:zoom="0.96467592"
+     inkscape:cx="13.175775"
+     inkscape:cy="354.09281"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text881"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1127" />
+  </sodipodi:namedview>
+  <g
+     id="g4842"
+     transform="matrix(0.91523671,0,0,0.91523671,5.2596192,41.416077)">
+    <g
+       aria-label="&lt; &gt;"
+       transform="scale(0.70807449,1.4122808)"
+       style="font-style:normal;font-weight:normal;font-size:76.07993317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.90199828"
+       id="text881">
+      <path
+         d="M 253.44293,325.46364 85.485168,165.2817 253.44293,5.0997662 H 179.57262 L 11.614857,165.2817 179.57262,325.46364 Z"
+         style="fill:#00af5a;fill-opacity:1"
+         id="path840" />
+      <path
+         d="M 763.46395,165.2817 595.50619,5.0997662 H 521.63588 L 689.59364,165.2817 521.63588,325.46364 h 73.87031 z"
+         style="fill:#00965a;fill-opacity:1"
+         id="path842" />
+    </g>
+    <g
+       transform="matrix(0.70144004,0,0,0.70144004,106.96658,68.023109)"
+       id="g1051">
+      <g
+         transform="matrix(1.4062571,0,0,1.4062571,-111.41916,-158.55217)"
+         id="g1064">
+        <polygon
+           style="fill:#00af5a;fill-opacity:1"
+           points="246.975,181.664 217.964,181.664 176.626,447.607 246.975,493.95 "
+           id="polygon980" />
+        <polygon
+           style="fill:#00965a;fill-opacity:1"
+           points="246.975,181.664 246.975,493.95 317.324,447.607 275.986,181.664 "
+           id="polygon982" />
+        <polygon
+           style="fill:#00b35a;fill-opacity:1"
+           points="191.444,120.206 217.964,181.664 275.986,181.664 302.506,120.206 275.986,79.252 217.964,79.252 "
+           id="polygon984" />
+      </g>
+      <g
+         id="g992" />
+      <g
+         id="g994" />
+      <g
+         id="g996" />
+      <g
+         id="g998" />
+      <g
+         id="g1000" />
+      <g
+         id="g1002" />
+      <g
+         id="g1004" />
+      <g
+         id="g1006" />
+      <g
+         id="g1008" />
+      <g
+         id="g1010" />
+      <g
+         id="g1012" />
+      <g
+         id="g1014" />
+      <g
+         id="g1016" />
+      <g
+         id="g1018" />
+      <g
+         id="g1020" />
+    </g>
+  </g>
 </svg>

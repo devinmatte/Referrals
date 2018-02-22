@@ -1,21 +1,22 @@
 {
   "name": "Devin Matte Referrals",
   "short_name": "Referrals",
-  "theme_color": "#9975B9",
+  "theme_color": "#00b35a",
   "background_color": "#9975B9",
   "start_url": "/",
   "display": "minimal-ui",
   "lang": "en-US",
   "orientation": "portrait",
   "icons": [
-        {
-            "sizes": "128x128",
-            "src": "images/icon.png",
-            "type": "img/png"
-        },
-        {
-            "sizes": "16x16",
-            "src": "favicon.ico"
-        }
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
