@@ -25,3 +25,7 @@
 .tiles article.quip > .image:before {
     background-color: #2ff69f;
 }
+
+.tiles article.trello > .image:before {
+    background-color: #3c78be;
+}
