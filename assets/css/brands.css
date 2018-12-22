@@ -26,6 +26,10 @@
     background-color: #2ff69f;
 }
 
+.tiles article.robinhood > .image:before {
+    background-color: #00cc9b;
+}
+
 .tiles article.trello > .image:before {
     background-color: #3c78be;
 }
