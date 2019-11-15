@@ -1,19 +1,48 @@
 {
   "name": "referrals",
-  "description": "",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/devinmatte/Referrals.git"
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "gulp && react-scripts build",
+    "prod": "gulp && react-scripts build && serve -s build",
+    "test": "react-scripts test",
+    "lint": "eslint src/**/*.ts src/**/*.tsx && sass-lint src/styles/**/*.scss",
+    "eject": "react-scripts eject"
   },
-  "author": "Devin Matte",
-  "bugs": {
-    "url": "https://github.com/devinmatte/Referrals/issues"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "homepage": "https://referrals.devinmatte.com",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@types/jest": "24.0.23",
+    "@types/node": "12.12.7",
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.4",
+    "node-sass": "^4.13.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0",
+    "typescript": "3.7.2"
+  },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-clean": "^1.1.0",
-    "grunt-contrib-htmlmin": "^2.4.0",
-    "grunt-real-favicon": "^0.2.2"
+    "@typescript-eslint/eslint-plugin": "^2.7.0",
+    "@typescript-eslint/parser": "^2.7.0",
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0",
+    "gulp": "^4.0.2",
+    "gulp-real-favicon": "^0.3.2",
+    "sass-lint": "^1.13.1"
   }
 }

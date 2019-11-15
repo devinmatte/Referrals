@@ -1,0 +1,25 @@
+.tiles {
+    article.Acorns>.image:before {
+        background-color: #00cf26;
+    }
+
+    article.Discover>.image:before {
+        background-color: #f65e10;
+    }
+
+    article.Amex>.image:before {
+        background-color: #1c93f6;
+    }
+
+    article.Quip>.image:before {
+        background-color: #2ff69f;
+    }
+
+    article.Robinhood>.image:before {
+        background-color: #00cc9b;
+    }
+
+    article.Trello > .image:before {
+        background-color: #3c78be;
+    }
+}

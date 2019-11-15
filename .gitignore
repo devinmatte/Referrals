@@ -15,4 +15,6 @@ package-lock.json
 android-chrome-192x192.png
 android-chrome-512x512.png
 apple-touch-icon.png
-index.html
+node_modules
+build
+faviconData.json
