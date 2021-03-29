@@ -18,3 +18,4 @@ apple-touch-icon.png
 node_modules
 build
 faviconData.json
+.DS_store

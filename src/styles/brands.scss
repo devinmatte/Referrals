@@ -22,4 +22,8 @@
     article.Trello > .image:before {
         background-color: #3c78be;
     }
+
+    article.Lyft > .image::before {
+        background-color: #FF00BF;
+    }
 }
